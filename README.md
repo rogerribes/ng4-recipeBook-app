@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
+## About this Project
+This project is part of udemy course about Angular offered by instructor Maximilian Schwarzmüller. The objective of this project is put in practice all the Angular concepts learned in different sections of the Course. At the end is expect to achieve a finished product with the most basic caracteristics of a Web Application.
+
+STILL IN PROGRESS
+
+# Standard Project Information Offered by Angular-CLI project generator
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
